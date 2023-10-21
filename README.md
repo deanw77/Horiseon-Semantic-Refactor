@@ -19,4 +19,4 @@ Taking the original site and improve the code
 https://deanw77.github.io/Horiseon-Semantic-Refactor/
 
 ### Final Result Mock Up
-![The updated Horiseon website looks identical to theoriginal](HoriseonScreenshot.png)
+![The updated Horiseon website looks identical to the original](Assets/images/HoriseonScreenshot.png)
