@@ -15,8 +15,11 @@ Taking the original site and improve the code
 6) Commented both the HTML and CSS 
 7) All Images and Icons given alt tage descriptions
 
-### Hosted Site:
+## Hosted Site:
 https://deanw77.github.io/Horiseon-Semantic-Refactor/
+
+### Project Overview
+This project has provide a great opportunity to to both practice my use of GitHub and Branches as well as providing experience on editing a clients code. It was interesting to see how much code could be removed from the original CSS without impacting the actuasl appearance of the site. 
 
 ### Final Result Mock Up
 ![The updated Horiseon website looks identical to the original](Assets/images/HoriseonScreenshot.png)
