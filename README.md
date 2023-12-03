@@ -22,4 +22,4 @@ https://deanw77.github.io/Horiseon-Semantic-Refactor/
 This project has provide a great opportunity to to both practice my use of GitHub and Branches as well as providing experience on editing a clients code. It was interesting to see how much code could be removed from the original CSS without impacting the actuasl appearance of the site. 
 
 ### Final Result Mock Up
-![The updated Horiseon website looks identical to the original](Assets/images/HoriseonScreenshot.png)
+![The updated Horiseon website looks identical to the original](images/HoriseonScreenshot.png)
